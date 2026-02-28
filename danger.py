@@ -8,7 +8,7 @@ from danger_ffjwt import guest_to_jwt  # only needed function
 app = Flask(__name__)
 
 # Developer credit
-DEV_CREDIT = "@danger_ff_like"
+DEV_CREDIT = "@juli_dvrma"
 DEV_TELEGRAM = "t.me/danger_ff_like"
 
 # ---------- Version fetching with simple TTL cache ----------
