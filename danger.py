@@ -9,7 +9,7 @@ app = Flask(__name__)
 
 # Developer credit
 DEV_CREDIT = "@juli_dvrma"
-DEV_TELEGRAM = "t.me/danger_ff_like"
+DEV_TELEGRAM = "@juli_dvrma"
 
 # ---------- Version fetching with simple TTL cache ----------
 _versions_cache = {
